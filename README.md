@@ -29,6 +29,6 @@ You get instant feedback on your answers and can choose to try again or restart 
 
 make sure you have python installed and in a cli and in the subnetting folder directory enter
 
-python SubGAme_Functionalities.py
+python SubGame_Functionalities.py
 
 === BUILT BY MxLogician ===
